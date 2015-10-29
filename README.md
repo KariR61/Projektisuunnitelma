@@ -1,0 +1,2 @@
+# Projektisuunnitelma
+Opiframe koulutukseen liittyvän projektityön suunnitelma
